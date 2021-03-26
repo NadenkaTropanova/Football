@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="dots">:</string>
+    <string name="Argentina">Argentina</string>
+    <string name="Jamaica">Jamaica</string>
+    <string name="scoreJ">0</string>
+    <string name="scoreA">0</string>
+    <string name="reset">reset</string>
+    <string name="Spain">Spain</string>
+    <string name="Russia">Russia</string>
+    <string name="Brazil">Brazil</string>
+</resources>
